@@ -9,11 +9,11 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Node.js at the BOOTCAMP course.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time I study English and read books.\
+✍️ &nbsp;In my free time I study English and read books.
 
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 
-✉️ &nbsp;You can shoot me an email at volodymyrbondarenko.it@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at volodymyrbondarenko.it@gmail.com! I'll try to respond as soon as I can.
 
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https:// /resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
@@ -57,8 +57,8 @@
 
 <p align="center">
 <a href="https://github.com/Qweeqer">
-  <img height="180em" width="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Qweeqer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qweeqer&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Qweeqer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qweeqer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
