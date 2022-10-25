@@ -1,5 +1,5 @@
 <!-- ![Volodymyr Banner] -->
-<img height="200em" width="200em" src="https://raw.githubusercontent.com/qweeqer/qweeqer/master/assets/webdevelopment.jpeg"/>
+<img height="200em" width="200em" src="https://raw.githubusercontent.com/qweeqer/qweeqer/master/assets/webdevelopment.jpeg" align="center"/>
 
 <img alt="Hand wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Volodymyr</h2>
 
