@@ -20,7 +20,7 @@
 
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https:// /resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Coding" src="https://raw.githubusercontent.com/qweeqer/qweeqer/master/assets/coding.gif" align="right"/>
+<img height="100em" alt="Coding" src="https://raw.githubusercontent.com/qweeqer/qweeqer/master/assets/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
