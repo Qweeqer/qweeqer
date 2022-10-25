@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Volodymyr -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Node.js at the BOOTCAMP course.\
@@ -55,7 +55,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/Qweeqer">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Qweeqer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qweeqer&layout=compact&langs_count=8&theme=algolia"/>
